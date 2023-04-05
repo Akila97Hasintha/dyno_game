@@ -1,0 +1,2 @@
+const int GRAVITY_PASS = 2000;
+const int WORLD_TO_PIXEL_RATIO = 10;
